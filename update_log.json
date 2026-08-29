@@ -1,8 +1,10 @@
 {
-  "version": "1.2.0",
+  "version": "2.0.0",
   "releaseDate": "2026-08-06",
   "changelog": [
     "Hatalar düzeltildi.",
+    "V2 sürümü ile daha stabil altyapı.",
+    "Logomuz tamamen değişti",
     "Program altyapısı tamamen değişti ve steam tools devri geride kaldı. Daha stabil altyapı.",
     "Performans artırıldı."
   ]
