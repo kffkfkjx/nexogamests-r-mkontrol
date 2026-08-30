@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "releaseDate": "2026-08-30",
   "changelog": [
-    "V2.1.0 guvenlik ve performans altyapisi guncellendi.",
+    "V2.2.0 guvenlik ve performans altyapisi guncellendi.",
     "Hatalar giderildi."
   ]
 }
