@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "releaseDate": "2026-08-30",
+  "version": "2.2.0",
+  "releaseDate": "2026-09-04",
   "changelog": [
-    "V2.1.0 guvenlik ve performans altyapisi guncellendi.",
-    "Hatalar giderildi."
+    "NexoGameST v2.2 güncellemesi yayınlandı.",
+    "Performans ve indirme altyapısı güncellendi."
   ]
 }
