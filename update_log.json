@@ -1,12 +1,11 @@
 {
-  "version": "2.5.0",
-  "releaseDate": "2026-09-26",
+  "version": "2.8.3",
+  "releaseDate": "2026-10-23",
   "changelog": [
-    "NexoGameST v2.5.0 resmi sürümü ve güvenlik güncellemesi yayınlandı.",
-    "Steam Bütünlüğü: Oyun kaldırma ve manifest temizliğindeki alt metin çakışması giderildi.",
-    "Arşiv & Modül Koruması: ZIP ayıklamalarına boyut ve dosya sayısı güvenlik limitleri (Zip-Bomb koruması) getirildi.",
-    "Veri Güvenliği: SafeStorage şifrelemesi güvenli hale getirildi.",
-    "Bulut Ağ Geçidi: Manifest servislerinde harici timeout ve indirme kota kontrolleri devreye alındı.",
-    "Veritabanı Sertleştirme: Topluluk kütüphanesi için tip güvenliği sağlandı ve yetki izolasyonu artırıldı."
+    "TLS sertifika doğrulaması ve güvenlik kilidi durumları düzeltildi.",
+    "Yerel profil şifreleme geçişi ve ağ isteklerinin uyumluluğu iyileştirildi.",
+    "Steam dosya sahipliği kaydı ve çevrimdışı kütüphane yönetimi düzeltildi.",
+    "Steam temizliğinde hata sonrası yeniden başlatma ve güvenli kayıt yazımı iyileştirildi.",
+    "Proxy süreç adlarındaki yanlış eşleşmeler giderildi."
   ]
 }
