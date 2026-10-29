@@ -1,11 +1,12 @@
 {
-  "version": "2.8.3",
-  "releaseDate": "2026-10-23",
+  "version": "2.8.6",
+  "releaseDate": "2026-10-28",
   "changelog": [
-    "TLS sertifika doğrulaması ve güvenlik kilidi durumları düzeltildi.",
-    "Yerel profil şifreleme geçişi ve ağ isteklerinin uyumluluğu iyileştirildi.",
-    "Steam dosya sahipliği kaydı ve çevrimdışı kütüphane yönetimi düzeltildi.",
-    "Steam temizliğinde hata sonrası yeniden başlatma ve güvenli kayıt yazımı iyileştirildi.",
-    "Proxy süreç adlarındaki yanlış eşleşmeler giderildi."
+    "Topluluk profillerinde gizli, yok, son gün ve süresi dolmuş lisans durumları ayrıştırıldı; rozet tutarsızlıkları giderildi.",
+    "Yerel Steam kayıtlarından toplam oynama süresini okuma ve profile saat bazlı eşitleme desteği eklendi.",
+    "Kütüphanede kayıtlı süresi bulunmayan oyunlardaki yanıltıcı 0dk gösterimi düzeltildi.",
+    "Profil geçişlerinde eski verilerin ekranda kalması ve geç API yanıtlarının çakışması önlendi.",
+    "Profil XP kazanım açıklamaları canlı sistem formülüyle (+50 oyun, +10 indirme, hesap kıdemi) eşitlendi.",
+    "İstemci paketleri ve web kurulum dosyası Authenticode & DigiCert RFC 3161 ile imzalandı."
   ]
 }
